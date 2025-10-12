@@ -1,0 +1,1 @@
+export const web_tech = ["HTML", "CSS", "JS", "React", "Python"]
